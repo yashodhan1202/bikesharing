@@ -15,5 +15,10 @@ Using Tableau we discovered the following:
 4) The male riders ride the bike for more duration than female riders
 5) Thursday is the best day to ride as we see cluster of rides happening for this particular day in the month of August
 
+[link to the dashboard](https://public.tableau.com/app/profile/yashodhan.marathe/viz/Book2_16286445286820/NYCBikeRide?publish=yes)
+
+# Summary
+
+Once I completed my visualizations in tableau, the one thing that stood out to me was Thursday is the most popular day to take a bike ride. It would be a good idea for our customer to start the bikeshare business in a different city because whether people are biking to get to work or just doing it for fun. There are lots of users/ customers who will buy in. I feel if we have data for 1 month of each season analysed, there would be a different outcome. Just by looking at one months' data is not enough if we are trying to start our own venture of bike riding business.
 
 
